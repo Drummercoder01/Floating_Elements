@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+
+  background-color: #060430;
+  font-family: Arial, sans-serif;
+  color: #DEF;
+}
+
+#container {
+  width: 720px;
+  margin: 0 auto;
+  padding-bottom: 200px;
+  background-color: #121140;
+}
+
+main {
+  padding: 0 40px;
+}
+
+h2 {
+  color: hotpink;
+  font-size: 48px;
+  letter-spacing: 20px;
+  padding: 40px 0;
+}
+
+p {
+  font-size: 18px;
+  line-height: 150%;
+  padding-bottom: 40px;
+
+}
+
+img {
+  padding: 10px;
+}
+
+.floatRight {
+  float: right;
+}
+
+.floatLeft {
+  float: left;
+}
+
+
+
+
+/* plaats classes om left en right te kunnen floaten*/
